@@ -5,6 +5,7 @@
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+> Status: unfinished, kept for reference
 
 > A REST API to track your daily meals, mark which ones are within your diet, and check your progress with metrics — including your best streak of on-diet days. 🏆
 
