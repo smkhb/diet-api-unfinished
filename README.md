@@ -329,24 +329,6 @@ Please run `npm run lint` before opening a PR.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
-
----
-
-## 👨‍💻 Author
-
-**Samuel Bernardo**
-
-[![GitHub](https://img.shields.io/badge/GitHub-smkhb-181717?style=flat-square&logo=github)](https://github.com/smkhb)
-
----
-
 ## 📚 References
 
 - 📝 [Node.js Desafio 02](https://efficient-sloth-d85.notion.site/Desafio-02-be7cdb37aaf74ba898bc6336427fa410) — the challenge this project is based on
-
----
-
-<p align="center">Made with ☕ and 🥗 by <a href="https://github.com/smkhb">Samuel Bernardo</a></p>
